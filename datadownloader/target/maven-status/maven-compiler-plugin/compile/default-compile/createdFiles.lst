@@ -1,0 +1,4 @@
+com/chakri/downloader/DataDownloader.class
+com/chakri/downloader/exception/DownloadManagerException.class
+com/chakri/downloader/entities/DownloadEntity.class
+com/chakri/downloader/manager/DownloadManager.class
