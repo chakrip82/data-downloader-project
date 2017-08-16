@@ -1,4 +1,8 @@
-chakri Data Download From Multiple Sources/Protocols
+Chakri's Data Download From Multiple Sources/Protocols(HTTP/FTP etc..)
+
+Please see the problem statement and design of it here
+
+https://chakrip82.wordpress.com/data-downloader-engine-design-document/
 
 The following are the steps needed for executing the project.
 
